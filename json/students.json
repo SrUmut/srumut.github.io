@@ -1,0 +1,5402 @@
+{
+    "983458535": {
+        "first-name": "Scott",
+        "middle-name": "Suzanne",
+        "last-name": "Williamson",
+        "gpa": 1.5625,
+        "lectures": {
+            "2034": {
+                "midterm": 85,
+                "final": 84,
+                "overall": {
+                    "number": 84.4,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 65,
+                "final": 41,
+                "overall": {
+                    "number": 49.400000000000006,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 80,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 54,
+                "final": 99,
+                "overall": {
+                    "number": 81.0,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "1007": {
+                "midterm": 77,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "116499619": {
+        "first-name": "Michelle",
+        "middle-name": null,
+        "last-name": "Galvan",
+        "gpa": 1.25,
+        "lectures": {
+            "3507": {
+                "midterm": 93,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 64,
+                "final": 76,
+                "overall": {
+                    "number": 71.2,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 47,
+                "final": 44,
+                "overall": {
+                    "number": 45.05,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 70,
+                "final": 82,
+                "overall": {
+                    "number": 77.19999999999999,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 81,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "634273543": {
+        "first-name": "Derek",
+        "middle-name": null,
+        "last-name": "Cochran",
+        "gpa": 2.142857142857143,
+        "lectures": {
+            "3507": {
+                "midterm": 89,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 97,
+                "final": 71,
+                "overall": {
+                    "number": 81.4,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 63,
+                "final": 76,
+                "overall": {
+                    "number": 71.44999999999999,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 66,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 50,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "272965823": {
+        "first-name": "Ashlee",
+        "middle-name": null,
+        "last-name": "Myers",
+        "gpa": 1.0,
+        "lectures": {
+            "3507": {
+                "midterm": 89,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 83,
+                "final": 75,
+                "overall": {
+                    "number": 78.2,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 95,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 63,
+                "final": 56,
+                "overall": {
+                    "number": 58.800000000000004,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "214102686": {
+        "first-name": "Mike",
+        "middle-name": null,
+        "last-name": "Trevino",
+        "gpa": 1.368421052631579,
+        "lectures": {
+            "1009": {
+                "midterm": 70,
+                "final": 73,
+                "overall": {
+                    "number": 71.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 59,
+                "final": 52,
+                "overall": {
+                    "number": 54.45,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 61,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 83,
+                "final": 82,
+                "overall": {
+                    "number": 82.4,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 60,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "959753533": {
+        "first-name": "Penny",
+        "middle-name": null,
+        "last-name": "Gentry",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 43,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2001": {
+                "midterm": 50,
+                "final": 51,
+                "overall": {
+                    "number": 50.65,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 72,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 84,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 98,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "345223767": {
+        "first-name": "Victoria",
+        "middle-name": "Hayley",
+        "last-name": "Juarez",
+        "gpa": 0.9090909090909091,
+        "lectures": {
+            "3507": {
+                "midterm": 72,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2001": {
+                "midterm": 74,
+                "final": 55,
+                "overall": {
+                    "number": 61.65,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 73,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 83,
+                "final": 74,
+                "overall": {
+                    "number": 77.6,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 62,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "277212530": {
+        "first-name": "Adam",
+        "middle-name": "Holly",
+        "last-name": "Smith",
+        "gpa": 1.4285714285714286,
+        "lectures": {
+            "1009": {
+                "midterm": 53,
+                "final": 75,
+                "overall": {
+                    "number": 66.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 51,
+                "final": 93,
+                "overall": {
+                    "number": 78.3,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 81,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 46,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 54,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "173047110": {
+        "first-name": "Dylan",
+        "middle-name": "Paul",
+        "last-name": "Jones",
+        "gpa": 1.8461538461538463,
+        "lectures": {
+            "3507": {
+                "midterm": 63,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 84,
+                "final": 78,
+                "overall": {
+                    "number": 80.4,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "2034": {
+                "midterm": 34,
+                "final": 77,
+                "overall": {
+                    "number": 59.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 88,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 48,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "117942115": {
+        "first-name": "Lance",
+        "middle-name": null,
+        "last-name": "Fernandez",
+        "gpa": 1.4285714285714286,
+        "lectures": {
+            "3507": {
+                "midterm": 79,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 63,
+                "final": 58,
+                "overall": {
+                    "number": 60.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 93,
+                "final": 69,
+                "overall": {
+                    "number": 77.4,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 70,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 49,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "619238865": {
+        "first-name": "Cindy",
+        "middle-name": null,
+        "last-name": "Hill",
+        "gpa": 0.7692307692307693,
+        "lectures": {
+            "1009": {
+                "midterm": 69,
+                "final": 50,
+                "overall": {
+                    "number": 57.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 97,
+                "final": 53,
+                "overall": {
+                    "number": 70.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 52,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 70,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 31,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "624748057": {
+        "first-name": "Louis",
+        "middle-name": "Paula",
+        "last-name": "Caldwell",
+        "gpa": 1.263157894736842,
+        "lectures": {
+            "1009": {
+                "midterm": 65,
+                "final": 94,
+                "overall": {
+                    "number": 82.4,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 58,
+                "final": 31,
+                "overall": {
+                    "number": 40.45,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 62,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 69,
+                "final": 66,
+                "overall": {
+                    "number": 67.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "815618798": {
+        "first-name": "Anthony",
+        "middle-name": "Whitney",
+        "last-name": "Hansen",
+        "gpa": 1.6842105263157894,
+        "lectures": {
+            "3507": {
+                "midterm": 82,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 53,
+                "final": 97,
+                "overall": {
+                    "number": 79.4,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 92,
+                "final": 63,
+                "overall": {
+                    "number": 73.15,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3007": {
+                "midterm": 72,
+                "final": 85,
+                "overall": {
+                    "number": 79.8,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "1007": {
+                "midterm": 47,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "598355252": {
+        "first-name": "Diana",
+        "middle-name": null,
+        "last-name": "Russell",
+        "gpa": 1.4444444444444444,
+        "lectures": {
+            "1009": {
+                "midterm": 78,
+                "final": 74,
+                "overall": {
+                    "number": 75.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 33,
+                "final": 58,
+                "overall": {
+                    "number": 48.0,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 57,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 70,
+                "final": 89,
+                "overall": {
+                    "number": 81.4,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 88,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "906772534": {
+        "first-name": "Amber",
+        "middle-name": "Krystal",
+        "last-name": "Lang",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 42,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 79,
+                "final": 30,
+                "overall": {
+                    "number": 49.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 55,
+                "final": 59,
+                "overall": {
+                    "number": 57.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 86,
+                "final": 51,
+                "overall": {
+                    "number": 65.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 37,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "370706743": {
+        "first-name": "Christina",
+        "middle-name": "Jesus",
+        "last-name": "James",
+        "gpa": 1.631578947368421,
+        "lectures": {
+            "3507": {
+                "midterm": 68,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 88,
+                "final": 61,
+                "overall": {
+                    "number": 71.80000000000001,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 55,
+                "final": 100,
+                "overall": {
+                    "number": 82.0,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 53,
+                "final": 50,
+                "overall": {
+                    "number": 51.05,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 64,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "645441564": {
+        "first-name": "Alex",
+        "middle-name": null,
+        "last-name": "Martin",
+        "gpa": 0.3157894736842105,
+        "lectures": {
+            "3507": {
+                "midterm": 67,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 40,
+                "final": 54,
+                "overall": {
+                    "number": 48.4,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 84,
+                "final": 67,
+                "overall": {
+                    "number": 72.95,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 62,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 81,
+                "final": 61,
+                "overall": {
+                    "number": 69.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "349021561": {
+        "first-name": "Mallory",
+        "middle-name": "Melinda",
+        "last-name": "Williams",
+        "gpa": 1.5625,
+        "lectures": {
+            "3507": {
+                "midterm": 54,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 92,
+                "final": 58,
+                "overall": {
+                    "number": 71.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 56,
+                "final": 45,
+                "overall": {
+                    "number": 48.849999999999994,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 95,
+                "final": 83,
+                "overall": {
+                    "number": 87.8,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 83,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "707755545": {
+        "first-name": "James",
+        "middle-name": "Jimmy",
+        "last-name": "Wright",
+        "gpa": 1.625,
+        "lectures": {
+            "2034": {
+                "midterm": 58,
+                "final": 67,
+                "overall": {
+                    "number": 63.4,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 60,
+                "final": 83,
+                "overall": {
+                    "number": 74.95,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 68,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 90,
+                "final": 83,
+                "overall": {
+                    "number": 85.8,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 87,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "562835333": {
+        "first-name": "Regina",
+        "middle-name": "Carlos",
+        "last-name": "Stewart",
+        "gpa": 0.9473684210526315,
+        "lectures": {
+            "1009": {
+                "midterm": 97,
+                "final": 41,
+                "overall": {
+                    "number": 63.400000000000006,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 88,
+                "final": 67,
+                "overall": {
+                    "number": 75.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 69,
+                "final": 57,
+                "overall": {
+                    "number": 61.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 60,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "564538222": {
+        "first-name": "Ernest",
+        "middle-name": null,
+        "last-name": "Howe",
+        "gpa": 2.0,
+        "lectures": {
+            "3507": {
+                "midterm": 75,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 90,
+                "final": 88,
+                "overall": {
+                    "number": 88.8,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3005": {
+                "midterm": 61,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 96,
+                "final": 56,
+                "overall": {
+                    "number": 72.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 55,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "432907082": {
+        "first-name": "Eric",
+        "middle-name": "Jesse",
+        "last-name": "Brown",
+        "gpa": 2.0,
+        "lectures": {
+            "3507": {
+                "midterm": 89,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 96,
+                "final": 54,
+                "overall": {
+                    "number": 70.80000000000001,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 99,
+                "final": 96,
+                "overall": {
+                    "number": 97.19999999999999,
+                    "10-based": "A",
+                    "7-based": "A"
+                }
+            },
+            "3007": {
+                "midterm": 30,
+                "final": 92,
+                "overall": {
+                    "number": 67.19999999999999,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "105508351": {
+        "first-name": "Marissa",
+        "middle-name": "Julia",
+        "last-name": "Hall",
+        "gpa": 1.7894736842105263,
+        "lectures": {
+            "1009": {
+                "midterm": 96,
+                "final": 62,
+                "overall": {
+                    "number": 75.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 67,
+                "final": 42,
+                "overall": {
+                    "number": 52.0,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 93,
+                "final": 89,
+                "overall": {
+                    "number": 90.4,
+                    "10-based": "A",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 62,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 70,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "344628773": {
+        "first-name": "Timothy",
+        "middle-name": null,
+        "last-name": "Herrera",
+        "gpa": 0.9375,
+        "lectures": {
+            "3507": {
+                "midterm": 88,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 96,
+                "final": 65,
+                "overall": {
+                    "number": 77.4,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 63,
+                "final": 56,
+                "overall": {
+                    "number": 58.449999999999996,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 69,
+                "final": 82,
+                "overall": {
+                    "number": 76.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 100,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "619075654": {
+        "first-name": "Alexis",
+        "middle-name": null,
+        "last-name": "Guerrero",
+        "gpa": 1.631578947368421,
+        "lectures": {
+            "3507": {
+                "midterm": 100,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 92,
+                "final": 66,
+                "overall": {
+                    "number": 76.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 90,
+                "final": 87,
+                "overall": {
+                    "number": 88.19999999999999,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 49,
+                "final": 33,
+                "overall": {
+                    "number": 38.599999999999994,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "658922889": {
+        "first-name": "Jill",
+        "middle-name": null,
+        "last-name": "Medina",
+        "gpa": 1.105263157894737,
+        "lectures": {
+            "3507": {
+                "midterm": 82,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 80,
+                "final": 68,
+                "overall": {
+                    "number": 72.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 70,
+                "final": 61,
+                "overall": {
+                    "number": 64.15,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 58,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 59,
+                "final": 79,
+                "overall": {
+                    "number": 71.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "631399793": {
+        "first-name": "Megan",
+        "middle-name": null,
+        "last-name": "Keller",
+        "gpa": 1.5,
+        "lectures": {
+            "3507": {
+                "midterm": 62,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 55,
+                "final": 85,
+                "overall": {
+                    "number": 73.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3007": {
+                "midterm": 63,
+                "final": 78,
+                "overall": {
+                    "number": 72.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 70,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 56,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "679657632": {
+        "first-name": "Tammy",
+        "middle-name": "Casey",
+        "last-name": "Wilcox",
+        "gpa": 1.7692307692307692,
+        "lectures": {
+            "3507": {
+                "midterm": 67,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 54,
+                "final": 80,
+                "overall": {
+                    "number": 69.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 69,
+                "final": 90,
+                "overall": {
+                    "number": 81.6,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 53,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 45,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "529468572": {
+        "first-name": "Kathy",
+        "middle-name": "Shelby",
+        "last-name": "Bradley",
+        "gpa": 1.0625,
+        "lectures": {
+            "3507": {
+                "midterm": 36,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 56,
+                "final": 50,
+                "overall": {
+                    "number": 52.400000000000006,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 66,
+                "final": 89,
+                "overall": {
+                    "number": 80.95,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3007": {
+                "midterm": 66,
+                "final": 74,
+                "overall": {
+                    "number": 70.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 83,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "823412893": {
+        "first-name": "Leonard",
+        "middle-name": null,
+        "last-name": "Barton",
+        "gpa": 1.0,
+        "lectures": {
+            "1009": {
+                "midterm": 55,
+                "final": 67,
+                "overall": {
+                    "number": 62.199999999999996,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 53,
+                "final": 70,
+                "overall": {
+                    "number": 63.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 78,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 82,
+                "final": 66,
+                "overall": {
+                    "number": 72.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "1007": {
+                "midterm": 74,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "204027642": {
+        "first-name": "Stephanie",
+        "middle-name": null,
+        "last-name": "Suarez",
+        "gpa": 2.230769230769231,
+        "lectures": {
+            "1009": {
+                "midterm": 83,
+                "final": 92,
+                "overall": {
+                    "number": 88.4,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2034": {
+                "midterm": 65,
+                "final": 58,
+                "overall": {
+                    "number": 60.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 90,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 53,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "768924982": {
+        "first-name": "Natasha",
+        "middle-name": null,
+        "last-name": "Campbell",
+        "gpa": 1.1666666666666667,
+        "lectures": {
+            "3507": {
+                "midterm": 79,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 92,
+                "final": 62,
+                "overall": {
+                    "number": 74.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 90,
+                "final": 33,
+                "overall": {
+                    "number": 55.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 66,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 65,
+                "final": 83,
+                "overall": {
+                    "number": 75.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "951548257": {
+        "first-name": "Blake",
+        "middle-name": null,
+        "last-name": "Adams",
+        "gpa": 1.894736842105263,
+        "lectures": {
+            "1009": {
+                "midterm": 78,
+                "final": 91,
+                "overall": {
+                    "number": 85.80000000000001,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2034": {
+                "midterm": 62,
+                "final": 33,
+                "overall": {
+                    "number": 44.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 65,
+                "final": 84,
+                "overall": {
+                    "number": 77.35,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 65,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 51,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "225661704": {
+        "first-name": "Bradley",
+        "middle-name": "Kenneth",
+        "last-name": "Tran",
+        "gpa": 0.2631578947368421,
+        "lectures": {
+            "3507": {
+                "midterm": 79,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 48,
+                "final": 67,
+                "overall": {
+                    "number": 59.4,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 63,
+                "final": 66,
+                "overall": {
+                    "number": 64.80000000000001,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 56,
+                "final": 73,
+                "overall": {
+                    "number": 67.05,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 96,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "148546761": {
+        "first-name": "William",
+        "middle-name": null,
+        "last-name": "House",
+        "gpa": 1.6363636363636365,
+        "lectures": {
+            "2034": {
+                "midterm": 55,
+                "final": 63,
+                "overall": {
+                    "number": 59.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 92,
+                "final": 88,
+                "overall": {
+                    "number": 89.4,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3005": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 92,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 83,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "880039768": {
+        "first-name": "David",
+        "middle-name": null,
+        "last-name": "Webb",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 98,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 61,
+                "final": 55,
+                "overall": {
+                    "number": 57.400000000000006,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 33,
+                "final": 59,
+                "overall": {
+                    "number": 48.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 41,
+                "final": 83,
+                "overall": {
+                    "number": 66.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 58,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "143506062": {
+        "first-name": "Sandra",
+        "middle-name": "Jared",
+        "last-name": "Wallace",
+        "gpa": 1.894736842105263,
+        "lectures": {
+            "1009": {
+                "midterm": 52,
+                "final": 86,
+                "overall": {
+                    "number": 72.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 98,
+                "final": 46,
+                "overall": {
+                    "number": 64.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 98,
+                "final": 98,
+                "overall": {
+                    "number": 98.0,
+                    "10-based": "A",
+                    "7-based": "A"
+                }
+            },
+            "1007": {
+                "midterm": 68,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "430562017": {
+        "first-name": "Joshua",
+        "middle-name": "Sean",
+        "last-name": "Aguilar",
+        "gpa": 0.8421052631578947,
+        "lectures": {
+            "3507": {
+                "midterm": 62,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 68,
+                "final": 50,
+                "overall": {
+                    "number": 57.2,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 81,
+                "final": 69,
+                "overall": {
+                    "number": 73.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 98,
+                "final": 63,
+                "overall": {
+                    "number": 75.25,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 51,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "933035399": {
+        "first-name": "Randy",
+        "middle-name": null,
+        "last-name": "Garcia",
+        "gpa": 0.2631578947368421,
+        "lectures": {
+            "3507": {
+                "midterm": 79,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 50,
+                "final": 61,
+                "overall": {
+                    "number": 56.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 68,
+                "final": 64,
+                "overall": {
+                    "number": 65.4,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 71,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 78,
+                "final": 73,
+                "overall": {
+                    "number": 75.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "618060949": {
+        "first-name": "Courtney",
+        "middle-name": "Tony",
+        "last-name": "Hubbard",
+        "gpa": 1.5,
+        "lectures": {
+            "1009": {
+                "midterm": 63,
+                "final": 79,
+                "overall": {
+                    "number": 72.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 46,
+                "final": 71,
+                "overall": {
+                    "number": 61.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 61,
+                "final": 73,
+                "overall": {
+                    "number": 68.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 90,
+                "final": 86,
+                "overall": {
+                    "number": 87.6,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 39,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "173620773": {
+        "first-name": "Jeffrey",
+        "middle-name": "Valerie",
+        "last-name": "Taylor",
+        "gpa": 0.8333333333333334,
+        "lectures": {
+            "3507": {
+                "midterm": 61,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 33,
+                "final": 71,
+                "overall": {
+                    "number": 55.800000000000004,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 67,
+                "final": 95,
+                "overall": {
+                    "number": 83.8,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3007": {
+                "midterm": 62,
+                "final": 62,
+                "overall": {
+                    "number": 62.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 53,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "203286012": {
+        "first-name": "Patricia",
+        "middle-name": null,
+        "last-name": "Blevins",
+        "gpa": 1.7692307692307692,
+        "lectures": {
+            "3507": {
+                "midterm": 71,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 60,
+                "final": 62,
+                "overall": {
+                    "number": 61.199999999999996,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 78,
+                "final": 94,
+                "overall": {
+                    "number": 87.6,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3005": {
+                "midterm": 72,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 54,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "338011542": {
+        "first-name": "Amanda",
+        "middle-name": null,
+        "last-name": "Gonzalez",
+        "gpa": 2.0,
+        "lectures": {
+            "3507": {
+                "midterm": 92,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 77,
+                "final": 52,
+                "overall": {
+                    "number": 62.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 100,
+                "final": 82,
+                "overall": {
+                    "number": 89.19999999999999,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "1007": {
+                "midterm": 73,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "943032076": {
+        "first-name": "Brian",
+        "middle-name": null,
+        "last-name": "Phillips",
+        "gpa": 1.8461538461538463,
+        "lectures": {
+            "3507": {
+                "midterm": 68,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 58,
+                "final": 99,
+                "overall": {
+                    "number": 82.6,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 55,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 92,
+                "final": 54,
+                "overall": {
+                    "number": 69.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 51,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "406472918": {
+        "first-name": "Lauren",
+        "middle-name": null,
+        "last-name": "Townsend",
+        "gpa": 3.0,
+        "lectures": {
+            "3507": {
+                "midterm": 43,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 74,
+                "final": 95,
+                "overall": {
+                    "number": 86.6,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3005": {
+                "midterm": 73,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 75,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 68,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "631773841": {
+        "first-name": "Jason",
+        "middle-name": "Tonya",
+        "last-name": "Solomon",
+        "gpa": 1.9444444444444444,
+        "lectures": {
+            "1009": {
+                "midterm": 47,
+                "final": 46,
+                "overall": {
+                    "number": 46.4,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 72,
+                "final": 89,
+                "overall": {
+                    "number": 82.2,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3007": {
+                "midterm": 90,
+                "final": 95,
+                "overall": {
+                    "number": 93.0,
+                    "10-based": "A",
+                    "7-based": "A"
+                }
+            },
+            "3511": {
+                "midterm": 82,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 95,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "289893481": {
+        "first-name": "Zachary",
+        "middle-name": "Wyatt",
+        "last-name": "Rivera",
+        "gpa": 0.75,
+        "lectures": {
+            "1009": {
+                "midterm": 66,
+                "final": 68,
+                "overall": {
+                    "number": 67.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 83,
+                "final": 67,
+                "overall": {
+                    "number": 73.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 96,
+                "final": 42,
+                "overall": {
+                    "number": 60.89999999999999,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 60,
+                "final": 58,
+                "overall": {
+                    "number": 58.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 76,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "829909881": {
+        "first-name": "Andrew",
+        "middle-name": "Linda",
+        "last-name": "Frank",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 70,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2001": {
+                "midterm": 75,
+                "final": 57,
+                "overall": {
+                    "number": 63.300000000000004,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 46,
+                "final": 79,
+                "overall": {
+                    "number": 65.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 97,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 85,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "116859927": {
+        "first-name": "Taylor",
+        "middle-name": "Allison",
+        "last-name": "Hernandez",
+        "gpa": 0.2777777777777778,
+        "lectures": {
+            "1009": {
+                "midterm": 32,
+                "final": 63,
+                "overall": {
+                    "number": 50.599999999999994,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 98,
+                "final": 40,
+                "overall": {
+                    "number": 63.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 49,
+                "final": 58,
+                "overall": {
+                    "number": 54.4,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 76,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 55,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "341699875": {
+        "first-name": "Mark",
+        "middle-name": "Ruth",
+        "last-name": "Lopez",
+        "gpa": 1.7083333333333333,
+        "lectures": {
+            "1009": {
+                "midterm": 93,
+                "final": 63,
+                "overall": {
+                    "number": 75.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 91,
+                "final": 88,
+                "overall": {
+                    "number": 89.19999999999999,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 68,
+                "final": 58,
+                "overall": {
+                    "number": 61.5,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 90,
+                "final": 74,
+                "overall": {
+                    "number": 80.4,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "1007": {
+                "midterm": 88,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "262384116": {
+        "first-name": "Kayla",
+        "middle-name": null,
+        "last-name": "Fisher",
+        "gpa": 2.375,
+        "lectures": {
+            "3507": {
+                "midterm": 79,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 44,
+                "final": 99,
+                "overall": {
+                    "number": 77.0,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 95,
+                "final": 87,
+                "overall": {
+                    "number": 89.80000000000001,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3005": {
+                "midterm": 88,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 73,
+                "final": 86,
+                "overall": {
+                    "number": 80.80000000000001,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "548904428": {
+        "first-name": "Jacqueline",
+        "middle-name": "Nicholas",
+        "last-name": "Mack",
+        "gpa": 3.0,
+        "lectures": {
+            "1009": {
+                "midterm": 91,
+                "final": 86,
+                "overall": {
+                    "number": 88.0,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3005": {
+                "midterm": 58,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 98,
+                "final": 79,
+                "overall": {
+                    "number": 86.6,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 55,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 91,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "943497612": {
+        "first-name": "Kevin",
+        "middle-name": "Alyssa",
+        "last-name": "Mcdonald",
+        "gpa": 0.45454545454545453,
+        "lectures": {
+            "3507": {
+                "midterm": 54,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 87,
+                "final": 43,
+                "overall": {
+                    "number": 60.60000000000001,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 54,
+                "final": 61,
+                "overall": {
+                    "number": 58.55,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 83,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 39,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "164429729": {
+        "first-name": "Kristin",
+        "middle-name": null,
+        "last-name": "Allen",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 66,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3005": {
+                "midterm": 89,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 34,
+                "final": 64,
+                "overall": {
+                    "number": 52.0,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 86,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 83,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "818323094": {
+        "first-name": "Nathan",
+        "middle-name": "Frank",
+        "last-name": "Larson",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 55,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2001": {
+                "midterm": 51,
+                "final": 45,
+                "overall": {
+                    "number": 47.099999999999994,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 56,
+                "final": 69,
+                "overall": {
+                    "number": 63.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 64,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "448462794": {
+        "first-name": "Sherry",
+        "middle-name": null,
+        "last-name": "Harris",
+        "gpa": 1.3846153846153846,
+        "lectures": {
+            "3507": {
+                "midterm": 84,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 50,
+                "final": 81,
+                "overall": {
+                    "number": 68.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 67,
+                "final": 86,
+                "overall": {
+                    "number": 78.4,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 52,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 32,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "265272246": {
+        "first-name": "Teresa",
+        "middle-name": null,
+        "last-name": "Warren",
+        "gpa": 2.4545454545454546,
+        "lectures": {
+            "3507": {
+                "midterm": 81,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2001": {
+                "midterm": 53,
+                "final": 90,
+                "overall": {
+                    "number": 77.05,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 38,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 82,
+                "final": 90,
+                "overall": {
+                    "number": 86.80000000000001,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 65,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "871905444": {
+        "first-name": "Aaron",
+        "middle-name": "Lori",
+        "last-name": "Salinas",
+        "gpa": 0.9090909090909091,
+        "lectures": {
+            "3507": {
+                "midterm": 43,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 60,
+                "final": 83,
+                "overall": {
+                    "number": 73.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 90,
+                "final": 39,
+                "overall": {
+                    "number": 56.849999999999994,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 35,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 66,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "310157086": {
+        "first-name": "Gabriel",
+        "middle-name": null,
+        "last-name": "Carr",
+        "gpa": 0.5,
+        "lectures": {
+            "3507": {
+                "midterm": 79,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 66,
+                "final": 66,
+                "overall": {
+                    "number": 66.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 31,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 63,
+                "final": 65,
+                "overall": {
+                    "number": 64.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 63,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "882292395": {
+        "first-name": "Susan",
+        "middle-name": "Sarah",
+        "last-name": "Anderson",
+        "gpa": 2.3125,
+        "lectures": {
+            "2034": {
+                "midterm": 74,
+                "final": 100,
+                "overall": {
+                    "number": 89.6,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 90,
+                "final": 79,
+                "overall": {
+                    "number": 82.85,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 54,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 52,
+                "final": 96,
+                "overall": {
+                    "number": 78.39999999999999,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 60,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "543452285": {
+        "first-name": "Michael",
+        "middle-name": null,
+        "last-name": "Long",
+        "gpa": 1.0,
+        "lectures": {
+            "3507": {
+                "midterm": 70,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 42,
+                "final": 87,
+                "overall": {
+                    "number": 69.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 57,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 67,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 50,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "229091354": {
+        "first-name": "Richard",
+        "middle-name": null,
+        "last-name": "Dixon",
+        "gpa": 0.4444444444444444,
+        "lectures": {
+            "1009": {
+                "midterm": 61,
+                "final": 72,
+                "overall": {
+                    "number": 67.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 70,
+                "final": 50,
+                "overall": {
+                    "number": 58.0,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 49,
+                "final": 82,
+                "overall": {
+                    "number": 68.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 66,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 82,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "382270744": {
+        "first-name": "Caitlin",
+        "middle-name": "Brittany",
+        "last-name": "King",
+        "gpa": 1.5625,
+        "lectures": {
+            "3507": {
+                "midterm": 96,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 59,
+                "final": 92,
+                "overall": {
+                    "number": 78.8,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 58,
+                "final": 63,
+                "overall": {
+                    "number": 61.25,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 86,
+                "final": 86,
+                "overall": {
+                    "number": 86.0,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 37,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "968094050": {
+        "first-name": "John",
+        "middle-name": "Antonio",
+        "last-name": "Jordan",
+        "gpa": 1.625,
+        "lectures": {
+            "3507": {
+                "midterm": 50,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 91,
+                "final": 72,
+                "overall": {
+                    "number": 79.6,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "2001": {
+                "midterm": 56,
+                "final": 87,
+                "overall": {
+                    "number": 76.15,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3007": {
+                "midterm": 52,
+                "final": 97,
+                "overall": {
+                    "number": 79.0,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 51,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "117474515": {
+        "first-name": "Jennifer",
+        "middle-name": "Amy",
+        "last-name": "Harrell",
+        "gpa": 2.625,
+        "lectures": {
+            "2034": {
+                "midterm": 78,
+                "final": 91,
+                "overall": {
+                    "number": 85.80000000000001,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 66,
+                "final": 89,
+                "overall": {
+                    "number": 80.95,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 44,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 67,
+                "final": 100,
+                "overall": {
+                    "number": 86.8,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 67,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "926978313": {
+        "first-name": "Carl",
+        "middle-name": null,
+        "last-name": "Joseph",
+        "gpa": 2.0,
+        "lectures": {
+            "3507": {
+                "midterm": 60,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 70,
+                "final": 74,
+                "overall": {
+                    "number": 72.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 46,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 56,
+                "final": 99,
+                "overall": {
+                    "number": 81.8,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "1007": {
+                "midterm": 51,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "787484534": {
+        "first-name": "Crystal",
+        "middle-name": null,
+        "last-name": "Lynch",
+        "gpa": 1.2916666666666667,
+        "lectures": {
+            "1009": {
+                "midterm": 93,
+                "final": 66,
+                "overall": {
+                    "number": 76.80000000000001,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 88,
+                "final": 87,
+                "overall": {
+                    "number": 87.4,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 55,
+                "final": 37,
+                "overall": {
+                    "number": 43.3,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 65,
+                "final": 64,
+                "overall": {
+                    "number": 64.4,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 86,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "352665449": {
+        "first-name": "Joyce",
+        "middle-name": null,
+        "last-name": "Vazquez",
+        "gpa": 1.25,
+        "lectures": {
+            "3507": {
+                "midterm": 53,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 73,
+                "final": 93,
+                "overall": {
+                    "number": 85.0,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 39,
+                "final": 60,
+                "overall": {
+                    "number": 52.65,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 58,
+                "final": 81,
+                "overall": {
+                    "number": 71.80000000000001,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "1007": {
+                "midterm": 53,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "628390763": {
+        "first-name": "Mary",
+        "middle-name": null,
+        "last-name": "Pace",
+        "gpa": 1.3846153846153846,
+        "lectures": {
+            "1009": {
+                "midterm": 83,
+                "final": 50,
+                "overall": {
+                    "number": 63.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 54,
+                "final": 85,
+                "overall": {
+                    "number": 72.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 90,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 77,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "483770175": {
+        "first-name": "Chase",
+        "middle-name": null,
+        "last-name": "Nichols",
+        "gpa": 3.0,
+        "lectures": {
+            "3507": {
+                "midterm": 86,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2001": {
+                "midterm": 100,
+                "final": 80,
+                "overall": {
+                    "number": 87.0,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3005": {
+                "midterm": 78,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 52,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 58,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "381269651": {
+        "first-name": "Felicia",
+        "middle-name": null,
+        "last-name": "Keith",
+        "gpa": 0.5,
+        "lectures": {
+            "2034": {
+                "midterm": 60,
+                "final": 66,
+                "overall": {
+                    "number": 63.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 57,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 79,
+                "final": 56,
+                "overall": {
+                    "number": 65.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 100,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 52,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "129534588": {
+        "first-name": "Samuel",
+        "middle-name": "Ashley",
+        "last-name": "Marshall",
+        "gpa": 2.0,
+        "lectures": {
+            "3507": {
+                "midterm": 96,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 93,
+                "final": 60,
+                "overall": {
+                    "number": 73.2,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 79,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 96,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 87,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "846467415": {
+        "first-name": "Melissa",
+        "middle-name": "Jonathan",
+        "last-name": "Powell",
+        "gpa": 1.0,
+        "lectures": {
+            "3507": {
+                "midterm": 60,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3005": {
+                "midterm": 73,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 91,
+                "final": 60,
+                "overall": {
+                    "number": 72.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 89,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 45,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "219266321": {
+        "first-name": "Jamie",
+        "middle-name": null,
+        "last-name": "Matthews",
+        "gpa": 1.3636363636363635,
+        "lectures": {
+            "2034": {
+                "midterm": 84,
+                "final": 89,
+                "overall": {
+                    "number": 87.0,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 49,
+                "final": 61,
+                "overall": {
+                    "number": 56.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 52,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 43,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 31,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "806094428": {
+        "first-name": "Laura",
+        "middle-name": "Patrick",
+        "last-name": "Shaffer",
+        "gpa": 2.8421052631578947,
+        "lectures": {
+            "1009": {
+                "midterm": 94,
+                "final": 88,
+                "overall": {
+                    "number": 90.4,
+                    "10-based": "A",
+                    "7-based": "B"
+                }
+            },
+            "2034": {
+                "midterm": 69,
+                "final": 78,
+                "overall": {
+                    "number": 74.4,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 93,
+                "final": 78,
+                "overall": {
+                    "number": 83.25,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 34,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 43,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "413375618": {
+        "first-name": "Lindsey",
+        "middle-name": null,
+        "last-name": "Mann",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 56,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 59,
+                "final": 55,
+                "overall": {
+                    "number": 56.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 60,
+                "final": 32,
+                "overall": {
+                    "number": 43.2,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 64,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 34,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "739037723": {
+        "first-name": "Emily",
+        "middle-name": null,
+        "last-name": "Lin",
+        "gpa": 0.5714285714285714,
+        "lectures": {
+            "1009": {
+                "midterm": 61,
+                "final": 63,
+                "overall": {
+                    "number": 62.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 84,
+                "final": 58,
+                "overall": {
+                    "number": 67.1,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 77,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 100,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 91,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "861445530": {
+        "first-name": "Joseph",
+        "middle-name": "Gregory",
+        "last-name": "Molina",
+        "gpa": 0.6842105263157895,
+        "lectures": {
+            "1009": {
+                "midterm": 76,
+                "final": 54,
+                "overall": {
+                    "number": 62.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 63,
+                "final": 60,
+                "overall": {
+                    "number": 61.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 69,
+                "final": 56,
+                "overall": {
+                    "number": 60.55,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 31,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "579205491": {
+        "first-name": "Tyler",
+        "middle-name": null,
+        "last-name": "Montoya",
+        "gpa": 2.2857142857142856,
+        "lectures": {
+            "3507": {
+                "midterm": 30,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 80,
+                "final": 99,
+                "overall": {
+                    "number": 91.4,
+                    "10-based": "A",
+                    "7-based": "B"
+                }
+            },
+            "2001": {
+                "midterm": 41,
+                "final": 65,
+                "overall": {
+                    "number": 56.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 50,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "662324933": {
+        "first-name": "Madison",
+        "middle-name": null,
+        "last-name": "Neal",
+        "gpa": 1.8333333333333333,
+        "lectures": {
+            "1009": {
+                "midterm": 51,
+                "final": 83,
+                "overall": {
+                    "number": 70.2,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 63,
+                "final": 75,
+                "overall": {
+                    "number": 70.2,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 83,
+                "final": 92,
+                "overall": {
+                    "number": 88.85,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3007": {
+                "midterm": 64,
+                "final": 73,
+                "overall": {
+                    "number": 69.4,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 96,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "511912723": {
+        "first-name": "Leah",
+        "middle-name": null,
+        "last-name": "Nelson",
+        "gpa": 1.5555555555555556,
+        "lectures": {
+            "3507": {
+                "midterm": 38,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 59,
+                "final": 63,
+                "overall": {
+                    "number": 61.4,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 54,
+                "final": 72,
+                "overall": {
+                    "number": 64.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 73,
+                "final": 99,
+                "overall": {
+                    "number": 88.6,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3511": {
+                "midterm": 82,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "114417542": {
+        "first-name": "Kyle",
+        "middle-name": "April",
+        "last-name": "Weaver",
+        "gpa": 1.4285714285714286,
+        "lectures": {
+            "3507": {
+                "midterm": 50,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 75,
+                "final": 59,
+                "overall": {
+                    "number": 65.4,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 55,
+                "final": 97,
+                "overall": {
+                    "number": 82.30000000000001,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3005": {
+                "midterm": 61,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 44,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "571034249": {
+        "first-name": "Erin",
+        "middle-name": null,
+        "last-name": "Stephens",
+        "gpa": 0.625,
+        "lectures": {
+            "3507": {
+                "midterm": 91,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 49,
+                "final": 52,
+                "overall": {
+                    "number": 50.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 54,
+                "final": 51,
+                "overall": {
+                    "number": 52.05,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 79,
+                "final": 78,
+                "overall": {
+                    "number": 78.4,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "1007": {
+                "midterm": 57,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "206541553": {
+        "first-name": "Anna",
+        "middle-name": null,
+        "last-name": "Hawkins",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 93,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 72,
+                "final": 51,
+                "overall": {
+                    "number": 59.4,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 36,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 95,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 76,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "157557500": {
+        "first-name": "Tyrone",
+        "middle-name": "Edward",
+        "last-name": "Torres",
+        "gpa": 0.8421052631578947,
+        "lectures": {
+            "3507": {
+                "midterm": 84,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 32,
+                "final": 96,
+                "overall": {
+                    "number": 70.39999999999999,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2001": {
+                "midterm": 53,
+                "final": 65,
+                "overall": {
+                    "number": 60.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 66,
+                "final": 64,
+                "overall": {
+                    "number": 64.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 99,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "815481134": {
+        "first-name": "Robert",
+        "middle-name": null,
+        "last-name": "Riley",
+        "gpa": 0.9473684210526315,
+        "lectures": {
+            "1009": {
+                "midterm": 67,
+                "final": 51,
+                "overall": {
+                    "number": 57.4,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 85,
+                "final": 90,
+                "overall": {
+                    "number": 88.25,
+                    "10-based": "B",
+                    "7-based": "B"
+                }
+            },
+            "3007": {
+                "midterm": 50,
+                "final": 59,
+                "overall": {
+                    "number": 55.4,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 61,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 36,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "619543097": {
+        "first-name": "Chelsea",
+        "middle-name": "Ryan",
+        "last-name": "Edwards",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 94,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3005": {
+                "midterm": 56,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 42,
+                "final": 85,
+                "overall": {
+                    "number": 67.8,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 58,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 81,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "866923811": {
+        "first-name": "Bryan",
+        "middle-name": null,
+        "last-name": "Benjamin",
+        "gpa": 0.0,
+        "lectures": {
+            "1009": {
+                "midterm": 63,
+                "final": 50,
+                "overall": {
+                    "number": 55.2,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 59,
+                "final": 60,
+                "overall": {
+                    "number": 59.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 44,
+                "final": 63,
+                "overall": {
+                    "number": 56.35,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 40,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 92,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "692925944": {
+        "first-name": "Rebecca",
+        "middle-name": null,
+        "last-name": "Wheeler",
+        "gpa": 2.0,
+        "lectures": {
+            "3507": {
+                "midterm": 72,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 55,
+                "final": 94,
+                "overall": {
+                    "number": 78.4,
+                    "10-based": "C",
+                    "7-based": "C"
+                }
+            },
+            "3007": {
+                "midterm": 78,
+                "final": 88,
+                "overall": {
+                    "number": 84.0,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "3511": {
+                "midterm": 70,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 45,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "585497683": {
+        "first-name": "Barbara",
+        "middle-name": "Juan",
+        "last-name": "Lewis",
+        "gpa": 1.0,
+        "lectures": {
+            "2034": {
+                "midterm": 65,
+                "final": 53,
+                "overall": {
+                    "number": 57.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 100,
+                "final": 59,
+                "overall": {
+                    "number": 73.35,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 62,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 95,
+                "final": 76,
+                "overall": {
+                    "number": 83.6,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "1007": {
+                "midterm": 34,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "416611085": {
+        "first-name": "Lisa",
+        "middle-name": null,
+        "last-name": "Cobb",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 63,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 52,
+                "final": 53,
+                "overall": {
+                    "number": 52.599999999999994,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 63,
+                "final": 38,
+                "overall": {
+                    "number": 46.75,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 54,
+                "final": 56,
+                "overall": {
+                    "number": 55.2,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 32,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "374159388": {
+        "first-name": "Erica",
+        "middle-name": null,
+        "last-name": "Banks",
+        "gpa": 1.1666666666666667,
+        "lectures": {
+            "1009": {
+                "midterm": 51,
+                "final": 87,
+                "overall": {
+                    "number": 72.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 66,
+                "final": 67,
+                "overall": {
+                    "number": 66.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 99,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 67,
+                "final": 64,
+                "overall": {
+                    "number": 65.2,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 98,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 29
+    },
+    "880775091": {
+        "first-name": "Erika",
+        "middle-name": "Colin",
+        "last-name": "Fox",
+        "gpa": 1.0,
+        "lectures": {
+            "1009": {
+                "midterm": 92,
+                "final": 53,
+                "overall": {
+                    "number": 68.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 52,
+                "final": 92,
+                "overall": {
+                    "number": 76.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3007": {
+                "midterm": 66,
+                "final": 66,
+                "overall": {
+                    "number": 66.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 97,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 58,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "864495648": {
+        "first-name": "Alan",
+        "middle-name": "Alisha",
+        "last-name": "Johnson",
+        "gpa": 1.0,
+        "lectures": {
+            "3507": {
+                "midterm": 68,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 92,
+                "final": 63,
+                "overall": {
+                    "number": 74.6,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 94,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 68,
+                "final": 58,
+                "overall": {
+                    "number": 62.0,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 77,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    },
+    "363189224": {
+        "first-name": "Justin",
+        "middle-name": "Cody",
+        "last-name": "Fuller",
+        "gpa": 2.6153846153846154,
+        "lectures": {
+            "3507": {
+                "midterm": 93,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 98,
+                "final": 69,
+                "overall": {
+                    "number": 80.6,
+                    "10-based": "B",
+                    "7-based": "C"
+                }
+            },
+            "2034": {
+                "midterm": 80,
+                "final": 65,
+                "overall": {
+                    "number": 71.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3005": {
+                "midterm": 51,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 93,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "450620164": {
+        "first-name": "Howard",
+        "middle-name": "Thomas",
+        "last-name": "Finley",
+        "gpa": 0.875,
+        "lectures": {
+            "1009": {
+                "midterm": 76,
+                "final": 68,
+                "overall": {
+                    "number": 71.2,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "2034": {
+                "midterm": 51,
+                "final": 60,
+                "overall": {
+                    "number": 56.400000000000006,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2001": {
+                "midterm": 85,
+                "final": 55,
+                "overall": {
+                    "number": 65.5,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3007": {
+                "midterm": 67,
+                "final": 72,
+                "overall": {
+                    "number": 70.0,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 54,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 30
+    },
+    "386569000": {
+        "first-name": "Danielle",
+        "middle-name": null,
+        "last-name": "Poole",
+        "gpa": 1.0,
+        "lectures": {
+            "3507": {
+                "midterm": 74,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3005": {
+                "midterm": 56,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 89,
+                "final": 62,
+                "overall": {
+                    "number": 72.8,
+                    "10-based": "C",
+                    "7-based": "D"
+                }
+            },
+            "3511": {
+                "midterm": 53,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 97,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "319205232": {
+        "first-name": "Daniel",
+        "middle-name": "Donald",
+        "last-name": "Gay",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 51,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 54,
+                "final": 55,
+                "overall": {
+                    "number": 54.6,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3511": {
+                "midterm": 53,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 75,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 28
+    },
+    "749719575": {
+        "first-name": "Deborah",
+        "middle-name": "Sue",
+        "last-name": "Spencer",
+        "gpa": 0.0,
+        "lectures": {
+            "3507": {
+                "midterm": 64,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1009": {
+                "midterm": 39,
+                "final": 62,
+                "overall": {
+                    "number": 52.8,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "2034": {
+                "midterm": 61,
+                "final": 58,
+                "overall": {
+                    "number": 59.2,
+                    "10-based": "F",
+                    "7-based": "F"
+                }
+            },
+            "3511": {
+                "midterm": 61,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "1007": {
+                "midterm": 59,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 31
+    },
+    "927656487": {
+        "first-name": "Christopher",
+        "middle-name": null,
+        "last-name": "Meyer",
+        "gpa": 0.5,
+        "lectures": {
+            "3507": {
+                "midterm": 69,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "2034": {
+                "midterm": 48,
+                "final": 69,
+                "overall": {
+                    "number": 60.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "3005": {
+                "midterm": 30,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            },
+            "3007": {
+                "midterm": 53,
+                "final": 74,
+                "overall": {
+                    "number": 65.6,
+                    "10-based": "D",
+                    "7-based": "F"
+                }
+            },
+            "1007": {
+                "midterm": 56,
+                "final": null,
+                "overall": {
+                    "number": null,
+                    "10-based": null,
+                    "7-based": null
+                }
+            }
+        },
+        "total-credit": 27
+    }
+}

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LMS</title>
+    <link rel="stylesheet" href="./../css/main.css">
+    <script src="./../js/script.js" defer></script>
+    <script src="./../js/index.js" defer></script>
+    <script src="./../js/students.js" defer></script>
+    <script src="./../js/add_student.js" defer></script>
+    <script src="./../js/lectures.js" defer></script>
+</head>
+<body>
+    
+    <article>
+        <nav>
+            <button id="students-nav-button">Students</button>
+            <button id="add-student-nav-button">Add Student</button>
+            <button id="lectures-nav-button">Lectures</button>
+            <button id="add-lecture-nav-button">Add Lecture</button>
+        </nav>
+        <section id="students-section">
+            <div id="search-section">
+                <div id="search-by">
+                    Search by:  
+                    <select id="search-by-option">
+                        <option value="student-id">Student ID</option>
+                        <option value="student-name">Name</option>
+                    </select>
+                </div>
+                <input placeholder="Search">
+                <button id="search-button">Search</button>
+                <button id="clear-button">Clear</button>
+            </div>
+            <div id="student-info-headings">
+                <h3 class="student-id">ID</h3>
+                <h3 class="student-name">Name</h3>
+                <h3 class="student-gpa">GPA</h3>
+            </div>
+            <div id="students">
+            </div>
+        </section>
+        <section id="student-stats" class="hidden">
+            <div id="stats-window">
+                <div id="student-info">
+                    <span class="student-id">ID</span>
+                    <span class="student-name">Name</span>
+                    <span class="student-gpa">GPA</span>
+                </div>
+                <hr>
+                <div id="lecture-header">
+                    <span class="lecture-id">ID</span>
+                    <span class="lecture-name">Name</span>
+                    <span class="lecture-credit">Credit</span>
+                    <span class="lecture-midterm">Midterm</span>
+                    <span class="lecture-final">Final</span>
+                    <span class="lecture-overall">Overall</span>
+                </div>
+                <div id="student-lectures">
+                    
+                </div>
+                <button id="save-lectures">Save</button>
+            </div>
+        </section>
+        <section id="add-student" class="hidden">
+            <div>
+                <h4>First Name:</h4>
+                <input id="add-student-first-name-input" placeholder="first name">
+            </div>
+            <div>
+                <h4>Middle Name:</h4>
+                <input id="add-student-middle-name-input" placeholder="middle name (if exist)">
+            </div>
+            <div>
+                <h4>Last Name:</h4>
+                <input id="add-student-last-name-input" placeholder="last name">
+            </div>
+            <div>
+                <h4>ID:</h4>
+                <input id="add-student-id-input" placeholder="ID number">
+            </div>
+            <div>
+                <h4>Number of Lectures to Sign in:</h4>
+                <input id="add-student-lecture-number" placeholder="number of lectures" type="number" min="0" value="0">
+            </div>
+            <button id="add-student-save-button">Save</button>
+        </section>
+        <section id="add-lectures-to-new-student" class="hidden">
+            <div id="add-student-lectures-window">
+                <div id="add-lectures-to-new-student-headers">
+                    <span class="add-student-lecture-id">Lecture ID</span>
+                    <span class="add-student-lecture-midterm">Midterm</span>
+                    <span class="add-student-lecture-final">Final</span>
+                </div>
+                <div id="add-student-lectures">
+                    <!--
+                    <div>
+                        <input placeholder="lecture id" class="add-student-lecture-id">
+                        <input placeholder="midterm grade" class="add-student-lecture-midterm" type="number" min="0" max="100" step="0.01">
+                        <input placeholder="final grade" class="add-student-lecture-final" type="number" min="0" max="100" step="0.01">
+                    </div>
+                    -->
+                </div>
+                <button id="add-student-save-lectures-button">Save</button>
+            </div>
+        </section>
+        <section id="lectures-section" class="hidden">
+            <div id="lectures-search"></div>
+            <div id="lectures">
+                <div>
+                    <h4 class="lecture-id">ID</h4>
+                    <h4 class="lecture-name">Name</h4>
+                    <h4 class="lecture-credit">Credit</h4>
+                    <h4 class="lecture-grade-scale">Grade Scale</h4>
+                    <h4 class="lecture-midterm-rate">Midterm Rate</h4>
+                </div>
+            </div>
+        </section>
+        <section id="lecture-details" class="hidden">
+            <div id="lecture-details-window">
+                <div>
+                    <span id="lecture-id">ID</span>
+                    <span id="lecture-name">Name</span>
+                    <span id="lecture-credit">Credit</span>
+                    <select id="lecture-grade-scale">
+                        <option value="10-based">10-based</option>
+                        <option value="7-based">7-based</option>
+                    </select>
+                    <input id="lecture-midterm-rate" type="number" min="0.01" max="0.99" step="0.01">
+                </div>
+                <button>Save</button>
+            </div>
+        </section>
+    </article>
+</body>
+</html>

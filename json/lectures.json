@@ -1,0 +1,50 @@
+{
+    "1009": {
+        "lecture-name": "Programming Fundamentals",
+        "credit": 8,
+        "grade-scale": "10-based",
+        "midterm-rate": 0.4
+    },
+    "1007": {
+        "lecture-name": "Introduction to Computer Science",
+        "credit": 6,
+        "grade-scale": "10-based",
+        "midterm-rate": 0.45
+    },
+    "2001": {
+        "lecture-name": "Data Structures and Algorithms",
+        "credit": 6,
+        "grade-scale": "7-based",
+        "midterm-rate": 0.35
+    },
+    "2034": {
+        "lecture-name": "Operating Systems",
+        "credit": 5,
+        "grade-scale": "10-based",
+        "midterm-rate": 0.4
+    },
+    "3005": {
+        "lecture-name": "Database Management Systems",
+        "credit": 5,
+        "grade-scale": "10-based",
+        "midterm-rate": 0.45
+    },
+    "3007": {
+        "lecture-name": "Computer Networks",
+        "credit": 5,
+        "grade-scale": "7-based",
+        "midterm-rate": 0.4
+    },
+    "3507": {
+        "lecture-name": "Web Development and Programming",
+        "credit": 6,
+        "grade-scale": "10-based",
+        "midterm-rate": 0.45
+    },
+    "3511": {
+        "lecture-name": "Artificial Intelligence",
+        "credit": 6,
+        "grade-scale": "7-based",
+        "midterm-rate": 0.3
+    }
+}
